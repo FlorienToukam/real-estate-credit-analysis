@@ -1,0 +1,16 @@
+{
+  "cached_formula_checks": {
+    "xl/worksheets/sheet2.xml:E26": 37.12014,
+    "xl/worksheets/sheet2.xml:F29": 3.8720188680822054,
+    "xl/worksheets/sheet2.xml:D32": 0.0,
+    "xl/worksheets/sheet3.xml:E21": 0.888888888888889,
+    "xl/worksheets/sheet3.xml:E22": 0.9375,
+    "xl/worksheets/sheet3.xml:E32": 41.6,
+    "xl/worksheets/sheet3.xml:E33": 18.4,
+    "xl/worksheets/sheet3.xml:E38": 0.4
+  },
+  "formula_count": 71,
+  "cached_formula_count": 71,
+  "exported_errors": [],
+  "native_excel_checked": false
+}
